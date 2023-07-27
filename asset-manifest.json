@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Ankit-0212/alanAINews/static/css/main.86a96ad6.css",
+    "main.js": "/Ankit-0212/alanAINews/static/js/main.10b7ca5e.js",
+    "static/js/787.4c026eef.chunk.js": "/Ankit-0212/alanAINews/static/js/787.4c026eef.chunk.js",
+    "static/media/logo.png": "/Ankit-0212/alanAINews/static/media/logo.4868978498acad25c2f2.png",
+    "index.html": "/Ankit-0212/alanAINews/index.html",
+    "main.86a96ad6.css.map": "/Ankit-0212/alanAINews/static/css/main.86a96ad6.css.map",
+    "main.10b7ca5e.js.map": "/Ankit-0212/alanAINews/static/js/main.10b7ca5e.js.map",
+    "787.4c026eef.chunk.js.map": "/Ankit-0212/alanAINews/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86a96ad6.css",
+    "static/js/main.10b7ca5e.js"
+  ]
+}
